@@ -93,6 +93,11 @@ body {
     border-radius: 15px;
     padding: 10px;
 }
+.testimonial-3 .name-status,
+.testimonial-5 .name-status {
+    color: rgb(72, 85, 106);
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
